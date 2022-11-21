@@ -185,7 +185,7 @@ body {
   gap: 20px;
 }
 .user-profile img {
-  text-shadow: text-shadow: 2px 2px #D8CBF6;
+  text-shadow: text-shadow 2px 2px #D8CBF6;
 }
 .user-name {
   font-size: 22px;
@@ -232,16 +232,32 @@ body {
   display: flex;
   justify-content: center;
   margin-top: 108px;
-  width: 1013px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .app2 {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 #group2 {
   display: flex;
+  flex-direction: column;
   align-items: center;
+  justify-content: center;
+  width: 445px;
+  gap: 142;
+}
+#downland-text {
+  font-size: 46px;
+  color: #272042;
+  font-weight: 700px;
+}
+#inorder-text {
+  margin-top: 10px;
+  font-size: 20px;
+  color: #8B8BA5;
 }
 .dowland-icon {
-  gap: 21,43px;
+  margin-top: 50px;
+  gap: 30;
 }
