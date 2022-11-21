@@ -1,0 +1,247 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: #E5E5E5;
+}
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 57px;
+}
+#foodyar_logo {
+  color: #272042;
+  font-size: 28px;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 63px;
+  margin-left: 678px;
+  color: #8B8BA5;
+  font-size: 18px;
+  width: 457px;
+  height: 23px;
+  ;
+}
+.header a {
+  color: #8B8BA5;
+  text-decoration: none;
+}
+#home_color {
+  color: #272042;
+}
+#mykitchen_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  border-radius: 100px;
+  margin-top: 50px;
+  width: 155px;
+  height: 50px;
+  background: #FBE0DC;
+
+}
+#mykitchen_btn a {
+  color: #272042;
+  text-decoration: none;
+}
+.banner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 94px;
+}
+.group1 {
+  justify-items: center;
+  align-items: center;
+  width: 424px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#video1 {
+
+}
+.p1 {
+  display: flex;
+  justify-content: left;
+  color: #272042;
+  font-size: 46px;
+  margin-top: 43px;
+}
+.p2 {
+  color: #8B8BA5;
+  font-size: 20px;
+  margin-top: 10px;
+}
+#decideamenu_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #272042;
+  width: 210px;
+  height: 50px;
+  border-radius: 100px;
+  background: #F7C531;
+  margin-top: 53px;
+}
+.special {
+  justify-items: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.title1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: start;
+}
+.watchnow {
+  font-size: 20px;
+  color: #8B8BA5;
+}
+.specialtotry {
+  font-size: 32px;
+  color: #272042;
+  font-weight: 700;
+}
+.tab {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: normal;
+  margin-top: 30px;
+  font-size: 20px;
+  color: #272042;
+  width: 503px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#yellow_color {
+  color: #F7C531;
+}
+.image_center {
+  display: flex;
+  justify-content: space-evenly;
+}
+.food_image {
+  border-radius: 50px;
+}
+.item1, .item2, .item3, .item4 {
+  margin-top: 71px;
+}
+.special_image_name {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  color: #272042;
+  font-size: 22px;
+}
+.special_chef_name {
+  display: flex;
+  justify-content: center;
+  margin-top: 8px;
+  font-size: 16px;
+  color: #8B8BA5;
+}
+.special_star {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+.star {
+  width: 22px;
+  height: 22px;
+}
+.testimonial {
+  display: flex;
+  margin-top: 155px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.testimonial_text {
+  width: 736px;
+  font-size: 36px;
+  color: #272042;
+}
+.user {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  width: 283px;
+}
+.user-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 283px;
+  gap: 20px;
+}
+.user-profile img {
+  text-shadow: text-shadow: 2px 2px #D8CBF6;
+}
+.user-name {
+  font-size: 22px;
+  height: 28px;
+  color: #272042;
+}
+.uyt {
+  font-size: 16px;
+  height: 20px;
+  color: #8B8BA5;
+}
+.statistic {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  height: 73px;
+}
+.number {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 32px;
+  color: #272042;
+  font-weight: 700;
+}
+.stname {
+  display: flex;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  margin-top: 48px;
+  color: #8B8BA5;
+}
+.menufood, .chefs, .alumnı, .course {
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.app {
+  display: flex;
+  justify-content: center;
+  margin-top: 108px;
+  width: 1013px;
+}
+.app2 {
+  display: flex;
+  justify-content: center;
+}
+#group2 {
+  display: flex;
+  align-items: center;
+}
+.dowland-icon {
+  gap: 21,43px;
+}
