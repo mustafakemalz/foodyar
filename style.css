@@ -61,11 +61,6 @@ body {
   justify-items: center;
   align-items: center;
   width: 424px;
-  margin-right: auto;
-  margin-left: auto;
-}
-#video1 {
-
 }
 .p1 {
   display: flex;
@@ -184,9 +179,6 @@ body {
   width: 283px;
   gap: 20px;
 }
-.user-profile img {
-  text-shadow: text-shadow 2px 2px #D8CBF6;
-}
 .user-name {
   font-size: 22px;
   height: 28px;
@@ -241,23 +233,33 @@ body {
 }
 #group2 {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  margin-right: auto;
+  margin-left: 142px;
   width: 445px;
-  gap: 142;
-}
-#downland-text {
-  font-size: 46px;
-  color: #272042;
-  font-weight: 700px;
+  flex-direction: column;
+  justify-content: center;
 }
 #inorder-text {
   margin-top: 10px;
   font-size: 20px;
   color: #8B8BA5;
 }
+#downland-text {
+  font-size: 46px;
+  color: #272042;
+  font-weight: 700px;
+}
 .dowland-icon {
   margin-top: 50px;
-  gap: 30;
+}
+.line-1 {
+  height: 2px;
+  border: #ECECEC;
+  margin-top: 158px;
+  background: #ECECEC;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
 }
