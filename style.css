@@ -1,6 +1,6 @@
 body {
   font-family: 'Quicksand', sans-serif;
-  background: #E5E5E5;
+  background: #FFFFFF;
 }
 .navigation {
   display: flex;
@@ -11,6 +11,7 @@ body {
   justify-content: center;
   align-content: center;
   margin-top: 57px;
+  font-weight: 500;
 }
 #foodyar_logo {
   color: #272042;
@@ -68,6 +69,7 @@ body {
   color: #272042;
   font-size: 46px;
   margin-top: 43px;
+  font-weight: 423;
 }
 .p2 {
   color: #8B8BA5;
@@ -247,7 +249,7 @@ body {
 #downland-text {
   font-size: 46px;
   color: #272042;
-  font-weight: 700px;
+  font-weight: 700;
 }
 .dowland-icon {
   margin-top: 50px;
@@ -258,8 +260,42 @@ body {
   margin-top: 158px;
   background: #ECECEC;
 }
-.footer {
+.menu-1 a,.menu-2 a,.menu-3 a {
+  text-decoration: none;
+  display: flex;
+  font-size: 18px;
+  color: #8B8BA5;
+  margin-top: 14px;
+}
+.footer-logo{
   display: flex;
   justify-content: center;
+  justify-items: center;
+  font-weight: 500;
+  font-size: 28px;
+  margin-top: 74px;
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
   margin-top: 70px;
+}
+.footer-title {
+  font-size: 22px;
+  font-weight: 500;
+  color: #272042;
+  margin-bottom: 20px;
+}
+.line-2 {
+  height: 2px;
+  border: #ECECEC;
+  margin-top: 70px;
+  background: #ECECEC;
+}
+.madebystatu {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #8B8BA5;
 }
